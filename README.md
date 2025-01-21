@@ -28,12 +28,11 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 
 ![Trang tra cứu từ vựng](images/Tra-cuu.png)
 
-### Trang tài liệu học tập
+### Trang tài liệu ofline
 
-![Trang tài liệu học tập](images/Tai_lieu_mien_phi.png)
-![Danh sách từ vựng](images/Danh_sach_tu_vung.png)
+![Trang tài liệu học tập](images/Tai_lieu_offline.png)
+![Danh sách bài học](images/Danh_sach_bai_hoc.png)
 ![Từ vựng](images/Tu_vung.png)
-![Kanji](images/Kanji.png)
 
 
 ### Trang khóa học
@@ -44,9 +43,13 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 
 ![Trang giỏ hàng](images/Gio_hang.png)
 
+### Trang thi thử
+
+![Trang thi thử](images/Thi_thu.png)
+
 ### Trang thông báo
 
-![Trang thông báo](images/Tong_bao.png)
+![Trang thông báo](images/Thong_bao.png)
 
 
 ## Tính năng chính

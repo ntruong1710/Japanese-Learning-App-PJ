@@ -18,38 +18,38 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 
 ### Trang đăng nhập/đăng ký
 
-![Trang đăng nhập](images/Dang_nhap.png)
+![Trang đăng nhập](images/Dang_nhap.jpg)
 
 ### Trang chủ
 
-![Trang chủ](images/Trang_chu.png)
+![Trang chủ](images/Trang_chu.jpg)
 
 ### Trang tra cứu từ vựng
 
-![Trang tra cứu từ vựng](images/Tra-cuu.png)
+![Trang tra cứu từ vựng](images/Tra-cuu.jpg)
 
 ### Trang tài liệu ofline
 
-![Trang tài liệu học tập](images/Tai_lieu_offline.png)
-![Danh sách bài học](images/Danh_sach_bai_hoc.png)
-![Từ vựng](images/Tu_vung.png)
+![Trang tài liệu học tập](images/Tai_lieu_offline.jpg)
+![Danh sách bài học](images/Danh_sach_bai_hoc.jpg)
+![Từ vựng](images/Tu_vung.jpg)
 
 
 ### Trang khóa học
 
-![Trang khóa học](images/Khoa_hoc.png)
+![Trang khóa học](images/Khoa_hoc.jpg)
 
 ### Trang giỏ hàng
 
-![Trang giỏ hàng](images/Gio_hang.png)
+![Trang giỏ hàng](images/Gio_hang.jpg)
 
 ### Trang thi thử
 
-![Trang thi thử](images/Thi_thu.png)
+![Trang thi thử](images/Thi_thu.jpg)
 
 ### Trang thông báo
 
-![Trang thông báo](images/Thong_bao.png)
+![Trang thông báo](images/Thong_bao.jpg)
 
 
 ## Tính năng chính

@@ -18,38 +18,39 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 
 ### Trang đăng nhập/đăng ký
 
-![Trang đăng nhập](images/Dang_nhap.jpg)
+<img src="images/Dang_nhap.jpg" alt="Đăng nhập" width="300" />
+<img src="images/Dang_ky.jpg" alt="Đăng ký" width="300" />
 
 ### Trang chủ
 
-![Trang chủ](images/Trang_chu.jpg)
+<img src="images/Trang_chu.jpg" alt="Trang chủ" width="300" />
 
 ### Trang tra cứu từ vựng
 
-![Trang tra cứu từ vựng](images/Tra-cuu.jpg)
+<img src="images/Tra_cuu.jpg" alt="Tra cứu" width="300" />
 
 ### Trang tài liệu ofline
 
-![Trang tài liệu học tập](images/Tai_lieu_offline.jpg)
-![Danh sách bài học](images/Danh_sach_bai_hoc.jpg)
-![Từ vựng](images/Tu_vung.jpg)
+<img src="images/Tai_lieu_offline.jpg" alt="Tài liệu offline" width="300" />
+<img src="images/Danh_sach_bai_hoc.jpg" alt="Danh sách bài học" width="300" />
+<img src="images/Tu_vung.jpg" alt="Từ vựng" width="300" />
 
 
 ### Trang khóa học
 
-![Trang khóa học](images/Khoa_hoc.jpg)
+<img src="images/Khoa_hoc.jpg" alt="Khóa học" width="300" />
 
 ### Trang giỏ hàng
 
-![Trang giỏ hàng](images/Gio_hang.jpg)
+<img src="images/Gio_hang.jpg" alt="Giỏ hàng" width="300" />
 
 ### Trang thi thử
 
-![Trang thi thử](images/Thi_thu.jpg)
+<img src="images/Thi_thu.jpg" alt="Thi thử" width="300" />
 
 ### Trang thông báo
 
-![Trang thông báo](images/Thong_bao.jpg)
+<img src="images/Thông báo.jpg" alt="Thông báo" width="300" />
 
 
 ## Tính năng chính
@@ -99,4 +100,38 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 1. **Clone dự án**:
    ```bash
    git clone https://github.com/your-repo/sakura-japanese.git
-   cd sakura-japanese
+   cd japanese-learning-app
+   ```
+2. **Cài đặt phụ thuộc**:
+   ```bash
+   cd frontend
+   npm i
+   ```
+   ```bash
+   cd backend
+   npm i
+   ```
+3. **Chạy dự án (mở 2 terminal)**:
+   ```bash
+   cd frontend
+   npm start
+   ```
+   ```bash
+   cd backend
+   npm start
+   ```
+4. **Chạy demo**
+   Dùng điện thoại quét QR code để chạy demo trên Expo Go. Bạn cũng có thể chạy demo trên Android Studio bằng cách ấn phím "a"
+
+## Đóng góp
+
+Tôi hoan nghênh mọi đóng góp để hoàn thiện dự án này. Nếu bạn có ý tưởng hoặc muốn tham gia phát triển, vui lòng fork repository và gửi pull request. Bạn cũng có thể mở issues để báo cáo lỗi hoặc đề xuất tính năng mới.
+
+## Liên hệ
+
+Nếu có bất kỳ câu hỏi hoặc phản hồi nào, vui lòng liên hệ qua email: ntruong0961@gmail.com.
+
+---
+
+Tôi hy vọng Sakura Japanese sẽ là một công cụ hữu ích cho bạn trên con đường học tiếng Nhật. Cảm ơn bạn đã quan tâm và ủng hộ dự án!
+   

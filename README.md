@@ -93,7 +93,7 @@ React Native アプリは、以下の技術を使用してインターフェー�
 
 1. **プロジェクトのクローン**:
    ```bash
-   git clone https://github.com/your-repo/sakura-japanese.git
+   git clone https://github.com/ntruong1710/sakura-japanese.git
    cd japanese-learning-app
     ```
 2. **依存関係のインストール**:
@@ -229,7 +229,7 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 
 1. **Clone dự án**:
    ```bash
-   git clone https://github.com/your-repo/sakura-japanese.git
+   git clone https://github.com/ntruong1710/sakura-japanese.git
    cd japanese-learning-app
    ```
 2. **Cài đặt phụ thuộc**:

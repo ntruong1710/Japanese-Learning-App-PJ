@@ -127,6 +127,8 @@ React Native アプリは、以下の技術を使用してインターフェー�
 
 ---
 
+Sakura Japanese が日本語学習の旅において役立つツールになることを願っています。ご関心とご支援に感謝します！
+
 
 # 🌸 Sakura Japanese App
 

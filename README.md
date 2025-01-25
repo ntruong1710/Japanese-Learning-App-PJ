@@ -1,3 +1,133 @@
+# 🌸 Sakura Japanese アプリ
+
+## 説明
+
+**Sakura Japanese** は、React Native を使用して開発されたマルチプラットフォームの日本語学習アプリです。使いやすいインターフェース、直感的な学習機能、そして最適化されたインタラクションを通じて、楽しく効果的な学習体験を提供します。
+
+## 開発理由
+
+グローバル化が進む現代社会では、外国語を学ぶことは個人のスキルアップだけでなく、競争力を持ち成功するための必須条件となっています。その中でも日本語は、発展した国の言語であるだけでなく、多様な文化、強力な経済、そして先進技術を持つ言語として特別な位置を占めています。
+
+オンラインプラットフォームを利用して日本語を学ぶことが一般的なトレンドとなっていますが、成功するプラットフォームはコンテンツの質だけでなく、ユーザーエクスペリエンス（UX）にも大きく依存します。しかし、現在のところ、直感的で美しいインターフェースを備えた日本語学習サイトを見つけるのは困難です。
+
+そこで、ユーザーのニーズを徹底的に研究・分析し、合理的なデザインソリューションを提案することで、直感的で使いやすく、効果的なインターフェースを持つ日本語学習アプリの開発を目指しました。このアプリは、ユーザーの学習体験をより充実させ、インタラクションを促進し、学習効率を高めることを目的としています。
+
+## インターフェースの画像
+
+以下は、Figma を使用してデザインされた Sakura Japanese アプリのインターフェースの一部です：
+
+### ログイン/登録ページ
+
+<img src="images/Dang_nhap.jpg" alt="ログイン" width="300" />
+<img src="images/Dang_ky.jpg" alt="登録" width="300" />
+
+### ホームページ
+
+<img src="images/Trang_chu.jpg" alt="ホーム" width="300" />
+
+### 単語検索ページ
+
+<img src="images/Tra_cuu.jpg" alt="単語検索" width="300" />
+
+### オフライン資料ページ
+
+<img src="images/Tai_lieu_offline.jpg" alt="オフライン資料" width="300" />
+<img src="images/Danh_sach_bai_hoc.jpg" alt="レッスン一覧" width="300" />
+<img src="images/Tu_vung.jpg" alt="語彙" width="300" />
+
+### コースページ
+
+<img src="images/Khoa_hoc.jpg" alt="コース" width="300" />
+
+### カートページ
+
+<img src="images/Gio_hang.jpg" alt="カート" width="300" />
+
+### 模擬試験ページ
+
+<img src="images/Thi_thu.jpg" alt="模擬試験" width="300" />
+
+### 通知ページ
+
+<img src="images/Thong_bao.jpg" alt="通知" width="300" />
+
+## 主な機能
+
+- **学習資料**: ユーザーのレベルごとに無料の学習資料を提供し、最適なレッスンを簡単に選択できるようにします。
+- **多様なコース**: 初級から上級までのコンテンツを含み、各レッスンにはビデオ講義と資料が付属しています。
+- **練習問題とテスト**: 知識を強化し、定期テストを通じて学習レベルを評価します。
+- **辞書機能**: 日本語学習をサポートする統合辞書機能により、学習時の集中力を高めます。
+
+## 使用技術
+
+### バックエンド
+- **Node.js**: アプリの API を構築するための主要プラットフォーム。
+- **使用技術**:
+  - Express.js: HTTP リクエスト処理用フレームワーク。
+  - Mongoose: MongoDB データベースの管理。
+  - JSON Web Token (JWT): 認証とセキュリティ。
+
+### フロントエンド
+React Native アプリは、以下の技術を使用してインターフェースとユーザーエクスペリエンスを最適化しています：
+1. **Navigation**: 画面間のナビゲーション管理。
+2. **Axios**: API 呼び出しライブラリ。
+3. **Async Storage**: モバイルデバイスでのローカルデータ保存。
+4. **Nativewind**: Tailwind CSS を React Native で使用するためのライブラリ。
+5. **React Native Reanimated**: スムーズなアニメーション作成。
+6. **React Native Safe Area Context**: デバイスの安全領域の管理。
+7. **React Native SVG & React Native SVG Transformer**: SVG 画像の表示と管理。
+8. **React Native Video**: アプリ内でのビデオ再生。
+9. **React Native Webview**: アプリ内での Web コンテンツ表示。
+10. **React Native Youtube Iframe**: YouTube 動画の埋め込みと再生。
+11. **Swiper**: インターフェースのスライドエフェクト。
+12. **Lottifile**: Lottie アニメーションの表示。
+
+## インストールと実行
+
+### システム要件
+- Node.js (バージョン >= 14)
+- React Native CLI または Expo CLI
+- モバイルデバイス (Android/iOS) またはエミュレーター
+
+### インストール手順
+
+1. **プロジェクトのクローン**:
+   ```bash
+   git clone https://github.com/your-repo/sakura-japanese.git
+   cd japanese-learning-app
+    ```
+2. **依存関係のインストール**:
+   ```bash
+   cd frontend
+   npm i
+   ```
+   ```bash
+   cd backend
+   npm i
+   ```
+3. **プロジェクトの実行 (2つのターミナルで実行)**:
+   ```bash
+   cd frontend
+   npm start
+   ```
+   ```bash
+   cd backend
+   npm start
+   ```
+4. **デモの実行**
+   スマートフォンで QR コードをスキャンして Expo Go でデモを実行するか、Android Studio で "a" キーを押してデモを実行します。
+
+## コントリビューション
+
+このプロジェクトへの貢献を歓迎します。アイデアや開発に参加したい場合は、リポジトリをフォークしてプルリクエストを送信してください。また、問題の報告や新機能の提案は issue にて受け付けています。
+
+## お問い合わせ
+
+質問やフィードバックがある場合は、以下のメールアドレスにご連絡ください：ntruong0961@gmail.com
+
+---
+
+
 # 🌸 Sakura Japanese App
 
 ## Mô tả

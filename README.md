@@ -4,6 +4,8 @@
 
 **Sakura Japanese** は、React Native を使用して開発されたマルチプラットフォームの日本語学習アプリです。使いやすいインターフェース、直感的な学習機能、そして最適化されたインタラクションを通じて、楽しく効果的な学習体験を提供します。
 
+👉 **アプリのデモ動画はこちら**: [Sakura Japanese デモ](https://drive.google.com/file/d/1StUK2FoJgnR8bYuDcyT8XhdxukqHESMw/view?usp=sharing)
+
 ## 開発理由
 
 グローバル化が進む現代社会では、外国語を学ぶことは個人のスキルアップだけでなく、競争力を持ち成功するための必須条件となっています。その中でも日本語は、発展した国の言語であるだけでなく、多様な文化、強力な経済、そして先進技術を持つ言語として特別な位置を占めています。
@@ -135,6 +137,8 @@ Sakura Japanese が日本語学習の旅において役立つツールになる�
 ## Mô tả
 
 **Sakura Japanese** là một ứng dụng học tiếng Nhật đa nền tảng, được phát triển bằng React Native. Ứng dụng mang đến trải nghiệm học tập thú vị và hiệu quả, nhấn mạnh vào việc cải thiện trình độ tiếng Nhật thông qua giao diện thân thiện, các tính năng học tập trực quan, và sự tương tác tối ưu.
+
+👉 **Xem video demo ứng dụng tại đây**: [Sakura Japanese App Demo]([https://www.youtube.com/watch?v=your-demo-link](https://drive.google.com/file/d/1StUK2FoJgnR8bYuDcyT8XhdxukqHESMw/view?usp=sharing)) 
 
 ## Lí do phát triển
 

@@ -50,7 +50,7 @@ Dưới đây là một số hình ảnh giao diện của Sakura Japanese đư�
 
 ### Trang thông báo
 
-<img src="images/Thông báo.jpg" alt="Thông báo" width="300" />
+<img src="images/Thong_bao.jpg" alt="Thông báo" width="300" />
 
 
 ## Tính năng chính
